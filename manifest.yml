@@ -1,5 +1,9 @@
 ---
 applications:
- - name: movies-reviews-database
+ - name: movies-reviews-database-71c
    random-route: false
    memory: 128M
+
+services:
+ - Natural Language Understanding-eg
+ - Cloudant-6p
